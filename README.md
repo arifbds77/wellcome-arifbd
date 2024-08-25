@@ -1,2 +1,1 @@
-hello everyone
-my name is ariful
+hello every one my name is md arif
